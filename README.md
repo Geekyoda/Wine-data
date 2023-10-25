@@ -1,3 +1,5 @@
+<img width="370" alt="Screenshot 2023-10-25 180832" src="https://github.com/Geekyoda/Wine-data/assets/94944593/983f8a6d-7df9-451e-beca-53994ce2f578">
+<img width="250" alt="Screenshot 2023-10-25 180814" src="https://github.com/Geekyoda/Wine-data/assets/94944593/a8f17e49-bca2-44b3-9acd-8f432db78f33">
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
