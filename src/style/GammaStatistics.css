@@ -1,56 +1,15 @@
-/* GammaStatistics.css */
-.table-container {
-  margin: 20px;
-}
-
-.myTable {
-  border-collapse: collapse;
+table {
   width: 100%;
-  border: 1px solid #ddd;
-}
-
-.th, .td {
-  text-align: center;
-  padding: 8px;
-  border: 1px solid #ddd;
-}
-
-.th {
-  background-color: #f2f2f2;
-}
-
-.tr:nth-child(even) {
-  background-color: #f2f2f2;
-}
-
-.tr:hover {
-  background-color: #ddd;
-}
-/* GammaStatistics.css */
-.table-container {
-  margin: 20px;
-}
-
-.myTable {
   border-collapse: collapse;
-  width: 100%;
-  border: 1px solid #ddd;
+  margin-bottom: 20px;
 }
 
-.th, .td {
-  text-align: center;
+th, td {
+  border: 1px solid #ddd;
   padding: 8px;
-  border: 1px solid #ddd;
+  text-align: center;
 }
 
-.th {
-  background-color: #f2f2f2;
-}
-
-.tr:nth-child(even) {
-  background-color: #f2f2f2;
-}
-
-.tr:hover {
-  background-color: #ddd;
+th {
+  background-color: #e6e6e6;
 }
