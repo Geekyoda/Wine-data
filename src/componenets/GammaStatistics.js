@@ -1,5 +1,5 @@
 import React from 'react';
-import './GammaStatistics.css'; // Import the CSS file
+import './../style/GammaStatistics.css'; // Import the CSS file
 
 import wineData from './wine-data.json';
 

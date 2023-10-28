@@ -1,5 +1,5 @@
 import React from 'react';
-import './FlavanoidsStatistics.css';
+import './../style/FlavanoidsStatistics.css';
 import wineData from './wine-data.json';
 
 function calculateClassStatistics(data, propertyName) {
